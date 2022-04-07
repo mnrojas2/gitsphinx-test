@@ -17,7 +17,7 @@ Tres tristes tigre trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pint
 + y0 = y(0)
 
 1. Se pueden enumerar las cosas.
-3. Tal vez saltar los números.
+2. Pero no se pueden saltar los números.
 #. Pero lo mejor es poner "#." y el número va solo.
 
 
