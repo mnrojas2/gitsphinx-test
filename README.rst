@@ -56,5 +56,5 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
 Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?::
 
       Ya les dije nada de insultos porfavor.
-    asdasdasd
-  hello
+    BASTA DE HABLAR DE HUEVITO REY
+  EL ESTA PRESO
