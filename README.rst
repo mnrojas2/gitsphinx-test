@@ -48,7 +48,10 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
 
 ::
 
-  Primero: no hablar de huevito rey. Segundo: Prohibido hablar de Mysterion. Tercero: Prohibido los insultos. Y cuarto: No están permitidos los garabatos y los comu- Y el comunismo.
+  Primero: no hablar de huevito rey.
+  Segundo: Prohibido hablar de Mysterion.
+  Tercero: Prohibido los insultos.
+  Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
 
 Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?::
 
