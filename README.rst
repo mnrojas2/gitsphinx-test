@@ -53,7 +53,7 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
   Tercero: Prohibido los insultos.
   Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
 
-Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?::
+¿Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?::
 
       Ya les dije nada de insultos porfavor.
     BASTA DE HABLAR DE HUEVITO REY
