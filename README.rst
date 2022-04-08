@@ -2,6 +2,8 @@
 README DE PRUEBA
 ================
 
+.. contents::
+
 Formato básico
 --------------
 
