@@ -82,7 +82,7 @@ Y lo permite copiar también. Con la libreria doctest, se utiliza para evaluar l
 Tablas
 ------
 
-A lo Excel:
+A lo Excel [1]_:
 
 +------------+------------+-----------+
 | Header 1   | Header 2   | Header 3  |
@@ -96,7 +96,7 @@ A lo Excel:
 | body row 4 |            | - blocks. |
 +------------+------------+-----------+
 
-A lo cuaderno:
+A lo cuaderno [1]_:
 
 =====  =====  ======
    Inputs     Output
@@ -108,6 +108,17 @@ True   False  True
 False  True   True
 True   True   True
 =====  =====  ======
+
+.. [1] En el código original se pueden observar las diferencias. (Esta línea sirve para ejemplificar referencias).
+
+Transición: Es una línea horizontal larga. No debe comenzar ni finalizar una sección o documento, ni dos transiciones deben ser inmediatamente adyacentes.
+
+-----------------
+
+En cuanto a referencias y al igual que los items enumerados, estos se pueden completar con '#'. Por ejemplo, este [#]_.
+
+.. [#] Supongo que debe ser la 2da referencia de pie de página.
+
 
 
 
