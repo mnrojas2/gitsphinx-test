@@ -67,11 +67,7 @@ Se pueden crear bloques by >impliying y así no tener que indentar::
 > Como esto
 > Y esto también
 
-| Al parecer se pueden usar líneas
-| verticales para más "bloques".
-|   Y conservan indentación,
-|   entre otras cosas.
-|       Yep,
-        y parece que también junta líneas en la misma
+|       Yep, la '|' puede servir para escribir una línea en varias.
+        Y parece que también junta líneas en la misma
         si es que tienen la misma indentación,
         sin tener que agregar la '|'.
