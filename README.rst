@@ -152,9 +152,9 @@ Se pueden cargar algunos elementos externos, como una imagen, con la ubicación 
 
 .. image:: images/patito.png
 
-También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso de |perro|.
+También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso del |animal|.
 
-.. |perro| replace:: gato
+.. |animal| replace:: pato
 
 Eso y más en el `siguiente link`__.
 
