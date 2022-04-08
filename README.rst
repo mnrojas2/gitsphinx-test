@@ -154,11 +154,11 @@ Se pueden cargar algunos elementos externos, como una imagen, con la ubicación 
 
 También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso de |perro|
 
-.. |perro| tal:: gato
+.. |perro| perro:: gato
 
 Eso y más en el `siguiente link`__.
 
 .. _Link : https://docutils.sourceforge.io/docs/ref/rst/directives.html
 __ Link_
 
-.. Ese último ejemplo muestra
+.. Ese último ejemplo muestra cómo se pueden crear referencia una frase completa, sin tener que llamar a la nueva referencia, como la misma otra vez.
