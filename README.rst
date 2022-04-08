@@ -52,10 +52,13 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
   Segundo: Prohibido hablar de Mysterion.
   Tercero: Prohibido los insultos.
   Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
+  ¿Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?
 
-¿Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?::
+Después del `::' todo lo que esté indentado forma parte del bloque. Cuando se vuelve a la indentación de esta linea, se acaba el bloque.
 
-      Ya les dije nada de insultos porfavor.
+::
+
+      Ya les dije nada de insultos por favor.
     BASTA DE HABLAR DE HUEVITO REY
   EL ESTA PRESO
 
