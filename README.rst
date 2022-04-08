@@ -161,6 +161,12 @@ También se pueden crear reemplazos a ciertas palabras con el uso de líneas ver
 
 .. |animal| replace:: pato
 
+::
+
+    También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso del |animal|.
+
+    .. |animal| replace:: pato
+
 Eso y más en el `siguiente link`__.
 
 .. _Link : https://docutils.sourceforge.io/docs/ref/rst/directives.html
