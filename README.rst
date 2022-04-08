@@ -3,7 +3,7 @@ README DE PRUEBA
 ================
 
 Testeo de párrafo
--------------
+-----------------
 
 Tres tristes tigres trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pintor portugués, pinta preciosos paisajes para poder partir para París.
 
@@ -58,3 +58,8 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
       Ya les dije nada de insultos porfavor.
     BASTA DE HABLAR DE HUEVITO REY
   EL ESTA PRESO
+
+Se pueden crear bloques by >impliying y así no tener que indentar::
+
+> Como esto
+> Y esto también
