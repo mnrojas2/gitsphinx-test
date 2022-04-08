@@ -154,7 +154,7 @@ Se pueden cargar algunos elementos externos, como una imagen, con la ubicación 
 
 También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso de |perro|.
 
-.. |perro| tal:: replace gato
+.. |perro| replace:: gato
 
 Eso y más en el `siguiente link`__.
 
