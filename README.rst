@@ -143,5 +143,11 @@ También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_ (e
 
 Si se quiere referenciar una sección basta con repetir el nombre de esta con comillas y guión bajo, como en `Citaciones e hipervínculos`_.
 
+Se pueden cargar algunos elementos externos, como una imagen, con la ubicación relativa a este archivo.
+
 .. image:: images/patito.png
 
+Eso y más en el `siguiente link`__.
+
+.. _Link :: https://docutils.sourceforge.io/docs/ref/rst/directives.html
+__ Link_
