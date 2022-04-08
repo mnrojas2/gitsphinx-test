@@ -143,3 +143,5 @@ También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_ (e
 
 Si se quiere referenciar una sección basta con repetir el nombre de esta con comillas y guión bajo, como en `Citaciones e hipervínculos`_.
 
+..image:: images/patito.png
+
