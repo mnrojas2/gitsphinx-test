@@ -2,8 +2,8 @@
 README DE PRUEBA
 ================
 
-Testeo de párrafo
------------------
+Formato básico
+--------------
 
 Tres tristes tigres trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pintor portugués, pinta preciosos paisajes para poder partir para París.
 
@@ -45,13 +45,16 @@ Comandos para funciones:
 -d       para deletear
 -a file  para avisparse
 
+Bloques
+-------
+
 Literalmente bloques:
 
 A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
 
 ::
 
-  Primero: no hablar de huevito rey.
+  Primero: No hablar de huevito rey.
   Segundo: Prohibido hablar de Mysterion.
   Tercero: Prohibido los insultos.
   Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
