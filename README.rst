@@ -54,7 +54,7 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
   Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
   ¿Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?
 
-Después del `::' todo lo que esté indentado forma parte del bloque. Cuando se vuelve a la indentación de esta linea, se acaba el bloque.
+Después del '::' todo lo que esté indentado forma parte del bloque. Cuando se vuelve a la indentación de esta linea, se acaba el bloque.
 
 ::
 
@@ -71,3 +71,7 @@ Se pueden crear bloques by >impliying y así no tener que indentar::
         Y parece que también junta líneas en la misma
         si es que tienen la misma indentación,
         sin tener que agregar la '|'.
+
+Se puede escribir código de Python como si fuese el IDLE:
+>>> print("Una weaita genuina")
+
