@@ -20,9 +20,10 @@ Tres tristes tigres trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pin
 2. Pero no se pueden saltar los números.
 #. Pero lo mejor es poner "#." y el número va solo.
 
-a. Letras también sirven
-#. Como números romamos
-#. Pero poco se utilizarían considerando que solo se puede rellenar con (#.)
+    a. Letras también sirven
+    #. Como números romanos
+    #. Pero poco se utilizarían considerando que solo se puede rellenar con (#.)
+    #. Y tal vez igualmente rellene con números
 
 
 Definición:
@@ -109,7 +110,7 @@ False  True   True
 True   True   True
 =====  =====  ======
 
-.. [1] En el código original se pueden observar las diferencias. (Esta línea sirve para ejemplificar referencias).
+.. [1] En el código original se pueden observar las diferencias. (Aprovecho de usar esta línea para ejemplificar referencias).
 
 Transición: Es una línea horizontal larga. No debe comenzar ni finalizar una sección o documento, ni dos transiciones deben ser inmediatamente adyacentes.
 
@@ -119,6 +120,9 @@ En cuanto a referencias y al igual que los items enumerados, estos se pueden com
 
 .. [#] Supongo que debe ser la 2da referencia de pie de página.
 
+También se pueden referenciar como en Latex, utilizando un nombre que luego se transforma a número [#ejemplo]
+
+.. [#ejemplo] Como en este caso. Lindo verdad?
 
 
 
