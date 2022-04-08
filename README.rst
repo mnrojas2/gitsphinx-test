@@ -124,5 +124,16 @@ También se pueden referenciar como en Latex, utilizando un nombre que luego se 
 
 .. [#ejemplo] Como en este caso. Lindo verdad?
 
+Citaciones e hipervínculos
+--------------------------
+
+Es prácticamente como la parte anterior pero sin el uso del '#' [CIT2022]_. También parece ser innecesario los corchetes para la palabra según CIT2022_.
+
+.. [CIT2022] https://docutils.sourceforge.io/docs/user/rst/quickref.html#citations
+
+Por otra parte los hyperlinks, se escriben de forma similar, pero solo utilizando el '_' en distintas posiciones. Por ejemplo, Python_.
+
+.. _Python: https://www.python.org/
+
 
 
