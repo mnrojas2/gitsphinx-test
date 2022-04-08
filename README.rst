@@ -16,6 +16,8 @@ Tres tristes tigres trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pin
 + y = 1 + cos(x) = int(sin(x),x)
 + y0 = y(0)
 
+.. _este:
+
 1. Se pueden enumerar las cosas.
 2. Pero no se pueden saltar los números.
 #. Pero lo mejor es poner "#." y el número va solo.
@@ -134,6 +136,10 @@ Es prácticamente como la parte anterior pero sin el uso del '#' [CIT2022]_. Tam
 Por otra parte los hyperlinks, se escriben de forma similar, pero solo utilizando el '_' en distintas posiciones. Por ejemplo, Python_.
 
 .. _Python: https://www.python.org/
+
+Los hipervínculos también se pueden escribir de la forma antigua (nombre<url>) como en este caso: `La misma página de Python<https://www.python.org/>`_.
+
+También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_.
 
 
 
