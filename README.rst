@@ -24,10 +24,10 @@ Tres tristes tigres trigaban trigo en un trigal. Pedro Pérez Pereira, pobre pin
 2. Pero no se pueden saltar los números.
 #. Pero lo mejor es poner "#." y el número va solo.
 
-    a. Letras también sirven
-    #. Como números romanos
-    #. Pero poco se utilizarían considerando que solo se puede rellenar con (#.)
-    #. Y tal vez igualmente rellene con números
+  a. Letras también sirven
+  #. Como números romanos
+  #. Pero poco se utilizarían considerando que solo se puede rellenar con (#.)
+  #. Y tal vez igualmente rellene con números
 
 
 Definición:
@@ -56,19 +56,19 @@ A ver chiquillos, antes que nah en el chat, vamos a dar las reglas del chat.
 
 ::
 
-  Primero: No hablar de huevito rey.
+  Primero: Prohibido hablar de Huevito Rey.
   Segundo: Prohibido hablar de Mysterion.
   Tercero: Prohibido los insultos.
   Y cuarto: No están permitidos los garabatos y los comu- y el comunismo.
-  ¿Estamos de acuerdo? Lo quiero toa' a la wena Estamos de acuerdo?
+  ¿Estamos de acuerdo? Lo quiero todo a la buena. ¿Estamos de acuerdo?
 
 Después del '::' todo lo que esté indentado forma parte del bloque. Cuando se vuelve a la indentación de esta linea, se acaba el bloque.
 
 ::
 
       Ya les dije nada de insultos por favor.
-    BASTA DE HABLAR DE HUEVITO REY
-  EL ESTA PRESO
+    BASTA DE HABLAR DE HUEVITO REY;
+  EL ESTA PRESO!!
 
 Se pueden crear bloques by >impliying y así no tener que indentar::
 
@@ -85,7 +85,7 @@ Se puede escribir código de Python como si fuese el IDLE:
 >>> print("Este es, el precio de la historia")
 Este es, el precio de la historia
 
-Y lo permite copiar también. Con la libreria doctest, se utiliza para evaluar lo que aparece en el ejemplo comentado en la función misma.
+Y lo permite copiar también. Con la librería doctest, se utiliza para evaluar lo que aparece en el ejemplo comentado en la función misma.
 
 Tablas
 ------
@@ -167,3 +167,4 @@ Eso y más en el `siguiente link`__.
 __ Link_
 
 .. Ese último ejemplo muestra cómo se pueden crear referencia una frase completa, sin tener que llamar a la nueva referencia, como la misma otra vez.
+.. Como también estos últimos dos mostrar cómo hacer comentarios a este tipo de archivos.
