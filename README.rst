@@ -67,12 +67,14 @@ Se pueden crear bloques by >impliying y así no tener que indentar::
 > Como esto
 > Y esto también
 
-|       Yep, la '|' puede servir para escribir una línea en varias.
-        Y parece que también junta líneas en la misma
-        si es que tienen la misma indentación,
-        sin tener que agregar la '|'.
+|   Yep, la '|' puede servir para escribir una línea en varias.
+    Y parece que también junta líneas en la misma
+    si es que tienen la misma indentación,
+    sin tener que agregar la '|'.
+
 
 Se puede escribir código de Python como si fuese el IDLE:
 
 >>> print("Una weaita genuina")
+Una weaita genuina
 
