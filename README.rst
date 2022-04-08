@@ -139,7 +139,7 @@ Por otra parte los hyperlinks, se escriben de forma similar, pero solo utilizand
 
 Los hipervínculos también se pueden escribir de la forma antigua (nombre<url>) como en este caso: `La misma página de Python<https://www.python.org/>`_.
 
-También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_.
+También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_ (enumeración de puntos).
 
-
+Si se quiere referenciar una sección basta con repetir el nombre de esta con comillas y guión bajo, como en `Citaciones e hipervínculos`_.
 
