@@ -72,9 +72,42 @@ Se pueden crear bloques by >impliying y así no tener que indentar::
     si es que tienen la misma indentación,
     sin tener que agregar la '|'.
 
-
 Se puede escribir código de Python como si fuese el IDLE:
 
->>> print("Una weaita genuina")
-Una weaita genuina
+>>> print("Este es, el precio de la historia")
+Este es, el precio de la historia
+
+Y lo permite copiar también. Con la libreria doctest, se utiliza para evaluar lo que aparece en el ejemplo comentado en la función misma.
+
+Tablas
+------
+
+A lo Excel:
+
++------------+------------+-----------+
+| Header 1   | Header 2   | Header 3  |
++============+============+===========+
+| body row 1 | column 2   | column 3  |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+A lo cuaderno:
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
+
+
 
