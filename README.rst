@@ -137,18 +137,28 @@ Por otra parte los hyperlinks, se escriben de forma similar, pero solo utilizand
 
 .. _Python: https://www.python.org/
 
-Los hipervínculos también se pueden escribir de la forma antigua (nombre<url>) como en este caso: `La misma página de Python<https://www.python.org/>`_.
+Los hipervínculos también se pueden escribir de la forma antigua (nombre<url>) como en este caso: `La misma página de Python <https://www.python.org/>`_.
 
 También se pueden utilizar para hacer referencia cruzada. Por ejemplo, este_ (enumeración de puntos).
 
 Si se quiere referenciar una sección basta con repetir el nombre de esta con comillas y guión bajo, como en `Citaciones e hipervínculos`_.
 
+Directivas
+----------
+
+Funciones especiales asociadas al uso de '::'.
+
 Se pueden cargar algunos elementos externos, como una imagen, con la ubicación relativa a este archivo.
 
 .. image:: images/patito.png
 
+También se pueden crear reemplazos a ciertas palabras con el uso de líneas verticales, como en el caso de |perro|
+
+.. |perro| tal:: gato
+
 Eso y más en el `siguiente link`__.
 
 .. _Link : https://docutils.sourceforge.io/docs/ref/rst/directives.html
-
 __ Link_
+
+.. Ese último ejemplo muestra
