@@ -73,5 +73,6 @@ Se pueden crear bloques by >impliying y así no tener que indentar::
         sin tener que agregar la '|'.
 
 Se puede escribir código de Python como si fuese el IDLE:
+
 >>> print("Una weaita genuina")
 
