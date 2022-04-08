@@ -120,7 +120,7 @@ En cuanto a referencias y al igual que los items enumerados, estos se pueden com
 
 .. [#] Supongo que debe ser la 2da referencia de pie de página.
 
-También se pueden referenciar como en Latex, utilizando un nombre que luego se transforma a número [#ejemplo]
+También se pueden referenciar como en Latex, utilizando un nombre que luego se transforma a número [#ejemplo]_.
 
 .. [#ejemplo] Como en este caso. Lindo verdad?
 
