@@ -149,5 +149,6 @@ Se pueden cargar algunos elementos externos, como una imagen, con la ubicación 
 
 Eso y más en el `siguiente link`__.
 
-.. _Link :: https://docutils.sourceforge.io/docs/ref/rst/directives.html
+.. _Link : https://docutils.sourceforge.io/docs/ref/rst/directives.html
+
 __ Link_
