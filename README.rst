@@ -178,4 +178,4 @@ __ Link_
 Extra tips
 ----------
 
-#. El equivalente a correr ". ./bin/activate" en Windows Powershell es simplemente ".\Scripts\activate.ps1"
+#. El equivalente a correr ". ./bin/activate" en Windows Powershell es simplemente "./Scripts/activate.ps1"
