@@ -8,6 +8,9 @@ __version__ = "0.0.1a"
 
 
 class TestClass:
+    """
+    TestClass - Class that contains some functions, just for testing purposes
+    """
     def __init__(self, name, c_type, color):
         self.name = name
         self.class_type = c_type
@@ -28,15 +31,34 @@ class TestClass:
             return "This function is "+descriptor
 
     def changeName(self, new_name):
+        """
+        Function to change the name of the class
+        :param new_name: str
+        :return: False
+        """
         self.name = new_name
 
     def changeColor(self, new_color):
+        """
+        Function to change the assigned color of the class
+        :param new_color: str
+        :return: False
+        """
         self.color = new_color
 
     def externalFunction(self, function_file):
+        """
+        Function to load an external function through the importlib library
+        :param function_file: str
+        :return: False
+        """
         self.module = importlib.import_module(function_file)
 
     def changeClassStatus(self):
+        """
+        Function to update the class type, based on the info from the external function
+        :return: False
+        """
         importlib.reload(self.module)
         if self.module.myFunction(self.class_type):
             self.class_type = 'useless'
@@ -48,6 +70,10 @@ class TestClass:
         return str("This is a test function for readthedocs.io, " + self.name + ", " + self.class_type + ", " + self.color)
 
 def main():
+    """
+    Function to test the correct operation of the class
+    :return: False
+    """
     test = TestClass("clasecita", "clasetipo", "verde")
     print(test)
 

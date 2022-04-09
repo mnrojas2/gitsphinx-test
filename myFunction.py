@@ -26,7 +26,7 @@ def myFunction(class_type):
 
 def main():
     """
-    Solo ejecuta el código
+    Function to test the correct operation of the function
 
     >>> main()
     False

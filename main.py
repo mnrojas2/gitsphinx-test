@@ -10,6 +10,11 @@ __version__ = "0.0.1a"
 
 
 def main():
+    """
+    main function to run the example
+    :return: False
+    """
+
     clasebase = TestClass("La clase", "test", "red")
 
     for i in range(40):
