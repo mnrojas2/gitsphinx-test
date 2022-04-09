@@ -179,3 +179,6 @@ Extra tips
 ----------
 
 #. El equivalente a correr ". ./bin/activate" en Windows Powershell es simplemente "./Scripts/activate.ps1"
+#. Para agregar direcciones a PATH, únicamente escribir en Powershell: $env:path += '<new directory>' donde <new directory> es la ubicación de la carpeta con el .exe a correr [#]_. 
+
+.. [#] Es importante considerar que en PATH las direcciones deben ir separadas con ';', por lo que sería bueno revisar si es que el ';' está al final del string o no.
