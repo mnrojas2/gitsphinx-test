@@ -174,4 +174,8 @@ __ Link_
 
 .. Ese último ejemplo muestra cómo se pueden crear referencia una frase completa, sin tener que llamar a la nueva referencia, como la misma otra vez.
 .. Como también estos últimos dos mostrar cómo hacer comentarios a este tipo de archivos.
-.. El equivalente a correr ". ./bin/activate" en Windows Powershell es simplemente ".\Scripts\activate.ps1"
+
+Extra tips
+----------
+
+#. El equivalente a correr ". ./bin/activate" en Windows Powershell es simplemente ".\Scripts\activate.ps1"
