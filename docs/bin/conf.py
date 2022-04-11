@@ -15,12 +15,12 @@ sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 # -- Project information -----------------------------------------------------
 
-project = 'gittest_ft_rst'
+project = 'Git-Sphinx-Test'
 copyright = '2022, mnrojas2'
 author = 'mnrojas2'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.1a'
 
 
 # -- General configuration ---------------------------------------------------
@@ -29,6 +29,7 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx_rtd_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

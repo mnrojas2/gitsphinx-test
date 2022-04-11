@@ -1,5 +1,5 @@
-# Ignore the __pycache__ folder
+# Ignore the following folders
 __pycache__/
 .idea/
 venv/
-docs/
+source-bin/

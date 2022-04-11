@@ -8,14 +8,7 @@ __version__ = "0.0.1a"
 
 def myFunction(class_type):
     """
-    Hace algo
-    >>> myFunction('toast')
-    False
-
-    >>> myFunction('test')
-    Class needs a type change
-    True
-
+    Basic function that return False or, a string and True.
     :param class_type: str
     :return: bool
     """

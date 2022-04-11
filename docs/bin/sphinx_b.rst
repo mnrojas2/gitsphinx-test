@@ -23,8 +23,4 @@ How to start Sphinx on Windows
 .. autosummary::
    :toctree: generated
 
-   main
-   classes
-   myFunction
-
 
