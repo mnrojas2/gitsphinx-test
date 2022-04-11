@@ -72,5 +72,3 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
 ]
-
-master_doc = 'index'
