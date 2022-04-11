@@ -1,4 +1,4 @@
 # File: docs/requirements.txt
 
 # Defining the exact version will make sure things don't break
-furo==1.0.0
+furo
