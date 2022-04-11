@@ -1,3 +1,4 @@
 # File: docs/requirements.txt
 
 furo
+myst-parser
