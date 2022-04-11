@@ -1,4 +1,5 @@
 # File: docs/requirements.txt
 
-sphinx-bootstrap-theme
+sphinx_bootstrap_theme
 myst-parser
+furo
