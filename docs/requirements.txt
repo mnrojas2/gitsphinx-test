@@ -1,5 +1,6 @@
 # File: docs/requirements.txt
 
+sphinxawesome-theme
 sphinx_bootstrap_theme
 myst-parser
 furo
