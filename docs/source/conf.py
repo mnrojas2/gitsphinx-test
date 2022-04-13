@@ -10,8 +10,10 @@
 # add these directories to sys.path here.
 import pathlib
 import sys
+import sphinxawesome_theme
 #import furo
-import sphinx_bootstrap_theme
+#import sphinx_bootstrap_theme
+
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 
@@ -58,8 +60,10 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 #html_theme = 'furo'
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+#html_theme = 'bootstrap'
+#html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+html_permalinks_icon = '<span>#</span>'
+html_theme = 'sphinxawesome_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
