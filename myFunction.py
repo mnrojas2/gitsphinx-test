@@ -13,7 +13,7 @@ def myFunction(class_type):
     :param class_type: Name of the type for the class.
     :type class_type: str or None
     :return: True if the type is 'test' or False in any other case.
-    :rtype: bool
+    :rtype: boolean
     """
     if class_type == 'test':
         print("Class needs a type change")
