@@ -26,4 +26,5 @@ Contents
 
    git_b
    sphinx_b
+   api
 
