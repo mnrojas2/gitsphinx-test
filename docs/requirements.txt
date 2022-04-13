@@ -3,3 +3,9 @@
 sphinx_bootstrap_theme
 myst-parser
 furo
+
+numpy
+importlib
+tqdm
+time
+sys
