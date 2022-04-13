@@ -10,7 +10,7 @@
 # add these directories to sys.path here.
 import pathlib
 import sys
-import sphinxawesome_theme
+import sphinxawesome-theme
 #import furo
 #import sphinx_bootstrap_theme
 
