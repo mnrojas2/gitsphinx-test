@@ -9,6 +9,7 @@ __version__ = "0.0.1a"
 def myFunction(class_type):
     """
     Basic function that return False or, a string and True.
+    
     :param class_type: str
     :return: bool
     """
