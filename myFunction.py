@@ -10,8 +10,10 @@ def myFunction(class_type):
     """
     Basic function that return False or, a string and True.
     
-    :param class_type: str
-    :return: bool
+    :param class_type: Name of the type for the class.
+    :type class_type: str or None
+    :return: True if the type is 'test' or False in any other case.
+    :rtype: bool
     """
     if class_type == 'test':
         print("Class needs a type change")
