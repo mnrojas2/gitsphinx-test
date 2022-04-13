@@ -62,7 +62,6 @@ exclude_patterns = []
 #html_theme = 'furo'
 #html_theme = 'bootstrap'
 #html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
-html_permalinks_icon = '<span>#</span>'
 html_theme = 'sphinxawesome_theme'
 
 # Add any paths that contain custom static files (such as style sheets) here,
