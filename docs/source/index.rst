@@ -26,5 +26,6 @@ Contents
 
    git_b
    sphinx_b
+   explaining
    api
 
