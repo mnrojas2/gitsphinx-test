@@ -10,8 +10,9 @@
 # add these directories to sys.path here.
 import pathlib
 import sys
-#import furo
+import furo
 import sphinx_bootstrap_theme
+
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
 
@@ -57,9 +58,9 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-#html_theme = 'furo'
-html_theme = 'bootstrap'
-html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+html_theme = 'furo'
+#html_theme = 'bootstrap'
+#html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
