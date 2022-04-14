@@ -189,5 +189,3 @@ Extra tips
 
 .. [#] Es importante considerar que en PATH las direcciones deben ir separadas con ';', por lo que sería bueno revisar si es que el ';' está al final del string o no.
 .. [#] Otra cosa es que esta opción es temporal y dejará de funcionar al cerrar la sesión de Powershell.
-
-.. please work
