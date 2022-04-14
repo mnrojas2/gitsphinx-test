@@ -19,3 +19,4 @@ python:
 # Add warning
 sphinx:
   fail_on_warning: true
+  
