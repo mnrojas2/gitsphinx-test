@@ -16,7 +16,6 @@ python:
   install:
     - requirements: docs/requirements.txt
 
-# Add warning
+# Add warning block to prevent outputs with issues
 sphinx:
   fail_on_warning: true
-  
