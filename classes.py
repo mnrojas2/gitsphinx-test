@@ -30,7 +30,7 @@ class TestClass:
         else:
             return "This function is "+descriptor
 
-    def changeName(self, new_name=self.name):
+    def changeName(self, new_name):
         """
         Function to change the name of the class
         
@@ -39,12 +39,12 @@ class TestClass:
         """
         self.name = new_name
 
-    def changeColor(self, new_color=self.color):
+    def changeColor(self, new_color):
         """
         Function to change the assigned color of the class
         
         :param new_color: The new color that wants to replace the old one.
-        :type: new_color: str
+        :type new_color: str
         """
         self.color = new_color
 
