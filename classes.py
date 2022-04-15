@@ -33,31 +33,30 @@ class TestClass:
     def changeName(self, new_name):
         """
         Function to change the name of the class
-        :param new_name: str
-        :return: False
+        :param new_name: The new name that wants to replace the old one.
+        :type new_name: str
         """
         self.name = new_name
 
     def changeColor(self, new_color):
         """
         Function to change the assigned color of the class
-        :param new_color: str
-        :return: False
+        :param new_color: The new color that wants to replace the old one.
+        :type: new_color: str
         """
         self.color = new_color
 
     def externalFunction(self, function_file):
         """
         Function to load an external function through the importlib library
-        :param function_file: str
-        :return: False
+        :param function_file: Name of the py file that contains the function.
+        :type function_file: str
         """
         self.module = importlib.import_module(function_file)
 
     def changeClassStatus(self):
         """
         Function to update the class type, based on the info from the external function
-        :return: False
         """
         importlib.reload(self.module)
         if self.module.myFunction(self.class_type):
@@ -72,7 +71,6 @@ class TestClass:
 def main():
     """
     Function to test the correct operation of the class
-    :return: False
     """
     test = TestClass("clasecita", "clasetipo", "verde")
     print(test)
