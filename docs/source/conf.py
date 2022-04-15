@@ -81,6 +81,6 @@ extensions = [
 ]
 
 autodoc_default_options = {
-    'autoclass_content': 'both',
     'members': True,
+    'special-members': True,
 }
