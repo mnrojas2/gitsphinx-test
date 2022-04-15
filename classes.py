@@ -62,7 +62,7 @@ class TestClass:
 
     def changeClassStatus(self):
         """
-        Function to update the class type, based on the info from the external function
+        Function to update the class type, based on the info from the external function defined in externalFunction()
         """
         importlib.reload(self.module)
         if self.module.myFunction(self.class_type):
