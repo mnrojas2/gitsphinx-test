@@ -8,4 +8,7 @@ API
    classes
    myFunction
    
+.. autoclass::
+   classes.classes
+   
 
