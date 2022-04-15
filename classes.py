@@ -30,7 +30,7 @@ class TestClass:
         else:
             return "This function is "+descriptor
 
-    def changeName(self, new_name):
+    def changeName(self, new_name=self.name):
         """
         Function to change the name of the class
         
@@ -39,7 +39,7 @@ class TestClass:
         """
         self.name = new_name
 
-    def changeColor(self, new_color):
+    def changeColor(self, new_color=self.color):
         """
         Function to change the assigned color of the class
         
