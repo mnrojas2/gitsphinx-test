@@ -2,8 +2,8 @@ API
 ===
 
 .. autosummary::
-   :members:
    :toctree: generated
+   :members:
 
    main
    classes
