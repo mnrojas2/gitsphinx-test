@@ -8,7 +8,7 @@ API
    classes
    myFunction
    
-.. autoclass::
-   classes.classes
+.. autoclass:: classes.TestClass
+   :members: 
    
 
