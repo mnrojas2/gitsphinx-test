@@ -12,9 +12,9 @@ class TestClass:
     TestClass - Class that contains some functions, just for testing purposes
     """
     def __init__(self, name, c_type, color):
-        self.name = name            # Name for the class
-        self.class_type = c_type    # Type defined for the class
-        self.color = color          # Color defined for the class
+        self.name = name            '''Name for the class.'''
+        self.class_type = c_type    '''Type defined for the class.'''
+        self.color = color          '''Color defined for the class.'''
 
     def testFunction(self, descriptor=None):
         """
