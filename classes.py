@@ -30,7 +30,7 @@ class TestClass:
         else:
             return "This function is "+descriptor
 
-    def changeName(self, new_name):
+    def changeName(self, new_name=self.name):
         """
         Function to change the name of the class
         :param new_name: The new name that wants to replace the old one.
@@ -40,7 +40,7 @@ class TestClass:
         """
         self.name = new_name
 
-    def changeColor(self, new_color):
+    def changeColor(self, new_color=self.color):
         """
         Function to change the assigned color of the class
         :param new_color: The new color that wants to replace the old one.
@@ -50,7 +50,7 @@ class TestClass:
         """
         self.color = new_color
 
-    def externalFunction(self, function_file):
+    def externalFunction(self, function_file=null):
         """
         Function to load an external function through the importlib library
         :param function_file: Name of the py file that contains the function.
