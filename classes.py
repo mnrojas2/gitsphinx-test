@@ -36,6 +36,7 @@ class TestClass:
         :param new_name: The new name that wants to replace the old one.
         :type new_name: str
         :return: false
+        :rtype: boolean
         """
         self.name = new_name
 
@@ -45,6 +46,7 @@ class TestClass:
         :param new_color: The new color that wants to replace the old one.
         :type: new_color: str
         :return: false
+        :rtype: boolean
         """
         self.color = new_color
 
@@ -54,6 +56,7 @@ class TestClass:
         :param function_file: Name of the py file that contains the function.
         :type function_file: str
         :return: false
+        :rtype: boolean
         """
         self.module = importlib.import_module(function_file)
 
