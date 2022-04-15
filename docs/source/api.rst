@@ -2,6 +2,7 @@ API
 ===
 
 .. autosummary::
+   :members:
    :toctree: generated
 
    main
