@@ -79,3 +79,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
 ]
+
+autodoc_default_options = {
+    'autoclass_content': 'both',
+    'members': True,
+}
