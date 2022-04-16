@@ -82,5 +82,6 @@ extensions = [
 
 autodoc_default_options = {
     'members': True,
+    'member-order': 'groupwise',
     'special-members': '__init__',
 }
