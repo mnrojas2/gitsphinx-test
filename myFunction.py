@@ -1,6 +1,5 @@
 """
-myFunction - Python function for testing importlib library
-
+myFunction - Python module/function for testing importlib library
 """
 
 __version__ = "0.0.1a"

@@ -2,7 +2,7 @@
 README DE PRUEBA
 ================
 
-Archivo creado para probar la funcionalidad de git como de reStructuredtext
+Archivo creado para probar la funcionalidad de git como de reStructuredText
 
 .. note::
 

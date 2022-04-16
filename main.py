@@ -1,5 +1,5 @@
 """
-main - runs all the thingy
+main - Python module to run all the thingy
 """
 import sys
 from classes import *
@@ -12,9 +12,7 @@ __version__ = "0.0.1a"
 def main():
     """
     main function to run the example
-    :return: False
     """
-
     clasebase = TestClass("La clase", "test", "red")
 
     for i in range(40):
