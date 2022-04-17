@@ -3,7 +3,7 @@ Python module for external functions
 
 WARNING: You must add all the necessary libraries here to make the function work in the main loop.
 
-* This file includes an example with a gain function. It only scales the input with the value set in the parameter
+This file includes an example with a gain function. It only scales the input with the value set in the parameter
 'gain'.
 
 """
@@ -27,7 +27,7 @@ def myFunction(time, inputs, params):
     :type params: dict{str}
     :return: Dictionary with the output(s) as float or numpy vector
     :rtype: dict{numpy.darray}
-    
+
     """
 
     return {0: np.array(params['gain'] * inputs[0])}
@@ -43,6 +43,7 @@ def _init_():
 
     * io_data: Contains the block run_ord parameter, number of inputs and outputs.
     * params: Contains all the required parameters for the function. For this example, it contains 'gain' only.
+
 
     """
     io_data = {
